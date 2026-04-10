@@ -9,17 +9,19 @@
 
 .de hr + p { text-indent: 0; }
 .de .caption { font-size: 0.9em; }
-.de .tn { font-size:0.9em; border:1px solid silver; margin-top:1.8em; margin-left:8%; width:80%; padding:0.4em 2%; background-color: #DDDDEE; }
-.de .tn p { text-indent:0; text-align:left; }
+.de .tn { font-size:0.9em; border: 1px solid silver; margin-top: 1.8em; margin-left: 8%; width: 80%; padding:0.4em 2%; background-color: #DDDDEE; }
+.de .tn p { text-indent: 0; text-align: left; }
 
+.ns 1
 .il 90% 
 f=illus-fpc.jpg
 a=Sheriff and posse approaching a campfire
 c=I goes to reaching for the dropped belt and six-guns when from behind, somebody sings out for me to reach for the clouds.
 .il-
+.ns 2
 
 .li t
-                       ON THE DODGE
+                        ON THE DODGE
 
             Written and Illustrated by Will James
 
@@ -313,12 +315,18 @@ Then the buckskin shook himself and at the same time shook me back to realizing 
 “Some day soon we’re going visiting, Buck,” I says, coming to; and untangling the knots out of my pony’s mane as I rides, I heads him up the trail back to the cow-camp on Arrow Springs.
 
 .li t
-[Transcriber’s Note: This story appeared in the January 1930 issue
-of Redbook Magazine.]
+.ns 2
+[Transcriber’s Notes:
+1. This story appeared in the January 1930 issue of Redbook Magazine.
+2. The cover image was created by the transcriber and placed in the
+   public domain.]
 .li-
 .li h
 <div class='tn'>
-<p>Transcriber’s Note: This story appeared in the January 1930 issue
-of <i>Redbook Magazine</i>.</p>
+<div style='text-align:center; text-decoration:underline'>Transcriber’s Notes:</div>
+<ol>
+<li>This story appeared in the January 1930 issue of Redbook Magazine.</li>
+<li>The cover image was created by the transcriber and placed in the public domain.</li>
+</ol>
 </div>
 .li-
